@@ -6,7 +6,7 @@ extremely high costs associated with high employee
 turnover rates. Disengaged employees also cost a
 company a bomb!
 
-The current attrition related problem in IBM is currently at a high 16% attrition rate and our goal is to reduce it to 10%.
+For this project, I got the opportunity to examine the renowned IBM Employee Attrition dataset to find characteristics that influence employees’ decision to leave their firm. In addition, I developed a model to predict if a given employee will quit based on a range of criteria such as overtime status, age, and so on. The current attrition related problem in IBM is currently at a high 16% attrition rate and my goal is to reduce it to 10%.
 
 ## Objective
 1. Identify important factors influencing attrition
